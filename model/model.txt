@@ -1,0 +1,1 @@
+Fine tuned Phi-3-mini will be generated after executing Fine_tuning_Phi_3.ipynb
